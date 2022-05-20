@@ -1,0 +1,8 @@
+body {
+  background-color: #2e2e2e;
+}
+
+#li {
+  display: inline-block;
+  margin-right: 10px;
+}
